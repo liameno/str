@@ -1,8 +1,7 @@
 # str
 #### A std::string helper library (C++17)
 ```cpp
-//str.h
-
+//str.h, str.cpp
 char get_first(const std::string &s);
 char get_last(const std::string &s);
 
